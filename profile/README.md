@@ -2,7 +2,7 @@
 
 Sohbet Platformu
 
-![LafBaz](img/259491.png)
+![LafBaz](../img/259491.png)
 
 ## License
 
